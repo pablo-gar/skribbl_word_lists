@@ -1,0 +1,87 @@
+accessories
+bag
+bathing costume
+belt
+beret
+bikini
+blouse
+bobble hat 
+boot
+boots
+bowler hat
+bow-tie
+boxers
+boxer shorts
+bra
+bracelet
+briefs
+cardigan
+coat
+dress
+dressing gown
+earring
+footwear
+glasses
+glove
+gloves
+handkerchief
+hat
+heels
+hoodie
+jacket
+jean
+jeans
+jumper
+jumper pullover
+knicker
+knitted hat
+ladies shoe
+lingerie
+mens
+mitten
+mittens
+nappy
+necklace
+nightdress
+nightie
+nightwear
+pant
+panties
+pants/knickers
+pijamas
+pullover
+purse
+pyjama
+pyjamas
+raincoat
+ring
+romper suit
+sandal
+scarf
+shirt
+shoe
+shorts
+skirt
+slippers
+socks
+stockings
+suit
+sunglasses
+sun hat
+sweater
+sweatshirt
+swimming costume
+swimming trunks
+swimsuit
+tanktop
+tie
+tights
+tracksuit
+trousers
+t-shirt
+underwear
+vest
+wallet
+watch 
+wellington
+wool hat
